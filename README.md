@@ -1,3 +1,3 @@
 # Repositório
 ## História do Mascote do Android
-<a href="https://felipe-cordeiro-98.github.io/Historia-do-Android/android.html">Página do Android</a>
+<a href="https://historia-do-android-zeta.vercel.app/">Página do Android</a>
